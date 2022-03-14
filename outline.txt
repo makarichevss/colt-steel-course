@@ -1,7 +1,18 @@
-++Chapter 1
 Chapter 1
---Chapter 2
+Chapter 1
+Chapter 2
 chapter3
 line 5
 line 6
+line 7
 another line 7
+final
+Chapter 1
+Chapter 1
+Chapter 2
+chapter3
+line 5
+line 6
+line 7
+another line 7
+final

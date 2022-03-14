@@ -1,0 +1,11 @@
+++Chapter 1
+Chapter 1
+--Chapter 2
+chapter3
+line 5
+line 6
+<<<<<<< HEAD
+line 7
+=======
+another line 7
+>>>>>>> 81db24d882424acabde5ad779f11ef4eaf60bbcf
